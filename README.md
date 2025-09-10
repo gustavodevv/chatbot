@@ -4,7 +4,7 @@ Olá! Bem-vindo(a) ao meu Chat-Bot. Este projeto foi desenvolvido para apresenta
 
 ## 🔗 Acesse o Chat-bot
 
-Você pode visitar a versão publicada do meu portfólio aqui:
+Você pode visitar a versão publicada do meu chat-bot aqui:
 [**Acesse meu Chat-bot aqui!**](https://gustavodevv.github.io/chatbot/)
 
 ## ✨ Visão Geral do Projeto
